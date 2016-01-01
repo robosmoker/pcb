@@ -14480,6 +14480,11 @@ Spark Fun Electronics SKU : COM-00107</description>
 <text x="374.65" y="5.08" size="2.54" layer="94" ratio="10">v0.1</text>
 <text x="293.37" y="124.46" size="1.778" layer="91">For fan ctrl, see
 http://www.formfactors.org/developer/specs/REV1_2_Public.pdf</text>
+<text x="128.27" y="97.79" size="1.778" layer="91">FIXME: pullup to at5</text>
+<text x="273.05" y="125.73" size="1.778" layer="91" rot="R90">FIXME: silk polarity backwards</text>
+<text x="41.91" y="200.66" size="1.778" layer="91">FIXME: mark pin 1 better</text>
+<text x="67.31" y="233.68" size="1.778" layer="91">FIXME: consistent size and value of resistors</text>
+<text x="160.02" y="144.78" size="1.778" layer="91">FIXME: mark polarity of conn in silk</text>
 </plain>
 <instances>
 <instance part="K1" gate="G$1" x="50.8" y="152.4" rot="R180"/>
