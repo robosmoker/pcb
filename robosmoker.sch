@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -150,6 +150,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
+<description>http://github.com/robosmoker</description>
 <libraries>
 <library name="frames">
 <description>&lt;b&gt;Frames for Sheet and Layout&lt;/b&gt;</description>
@@ -12115,9 +12116,8 @@ Used, eg, on the Arduino Pro/ Pro Mini boards.&lt;br&gt;
 <plain>
 <text x="289.56" y="20.32" size="1.778" layer="94" ratio="15">Drawn by:</text>
 <text x="289.56" y="16.51" size="1.778" layer="94" ratio="15">Checked  by:</text>
-<text x="289.56" y="5.08" size="1.778" layer="94">FLYFISH TECHNOLOGIES d.o.o.</text>
-<text x="309.88" y="20.32" size="1.778" layer="94">Ivan Zilic</text>
-<text x="374.65" y="5.08" size="2.54" layer="94" ratio="10">v0.1</text>
+<text x="309.88" y="20.32" size="1.778" layer="94">Michael Leibowitz</text>
+<text x="374.65" y="5.08" size="2.54" layer="94" ratio="10">v2.1</text>
 <text x="293.37" y="124.46" size="1.778" layer="91">For fan ctrl, see
 http://www.formfactors.org/developer/specs/REV1_2_Public.pdf</text>
 <text x="41.91" y="200.66" size="1.778" layer="91">FIXME: mark pin 1 better</text>
